@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Mani Shankar</h1>
 <h3 align="center">Onece a Python Developer always a Python Developer</h3>
 
@@ -13,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mani-shankar-66b884254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mani-shankar-66b884254/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mani-shankar-66b884254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mani-shankar-66b884254" height="30" width="40" /></a>
 <a href="https://instagram.com/call_me_miracle_mani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="call_me_miracle_mani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@manishankar2615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@manishankar2615" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mani . shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mani . shankar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
